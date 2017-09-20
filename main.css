@@ -1,0 +1,49 @@
+@charset "utf-8"
+.fl{
+   float:left;
+}
+.fr{
+	float: right;
+}
+.cb{
+
+	clear: both;
+}
+body{
+	background: url(images/back.png)repeat-x scroll;
+	 margin:0;
+     padding:0;
+     overflow:hidden;
+     Font-size:62.5%;
+}
+.main{
+
+     height:100%;
+	 width:100%; 
+	 margin: 0 auto;
+}
+.logo{  
+	text-align: center;
+}
+.under{
+	height:10%;
+	width:100%;
+	text-align: center;
+	padding-top:20%;
+	
+}
+.logo1{
+	width:45%;
+}
+.logo2{
+	
+width:45%;	
+}
+p{
+	text-align: center;
+	color: #ffffff;
+	font-size: 1.4em;
+	padding-top: 8%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
