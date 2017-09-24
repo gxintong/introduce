@@ -17,3 +17,4 @@ button.input.select.textarea{font-size: 100%;}
 table{border-collapse: :collapse;border-spacing: 0;}
 .clear: {clear:both;float:none;height:0;}
 html .hide{display: none;}
+img, object { max-width: 100%;}

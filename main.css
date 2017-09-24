@@ -16,6 +16,7 @@ body{
      overflow:hidden;
      Font-size:62.5%;
 }
+
 .main{
 
      height:100%;
@@ -29,15 +30,14 @@ body{
 	height:10%;
 	width:100%;
 	text-align: center;
-	padding-top:20%;
+	padding-top:12%;
 	
 }
 .logo1{
 	width:45%;
 }
 .logo2{
-	
-width:45%;	
+	width:45%;	
 }
 p{
 	text-align: center;
@@ -47,3 +47,4 @@ p{
 	padding-left: 10%;
 	padding-right: 10%;
 }
+img, object { max-width: 100%;}
