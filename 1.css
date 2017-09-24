@@ -1,0 +1,17 @@
+@charset "utf-8"
+.fl{
+   float:left;
+}
+.fr{
+	float: right;
+}
+.cb{
+
+	clear: both;
+}
+body{
+	background: url(images/back.png)repeat-x scroll;
+}
+.return{
+	background: url(images/jiantou.png);
+}
